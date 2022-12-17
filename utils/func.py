@@ -1,2 +1,2 @@
 def preprocess(x):
-    return x.replace(" ", "@")
+    return x.replace(" ", "")
